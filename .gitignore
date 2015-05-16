@@ -1,3 +1,4 @@
 *.mp4
 dl_list.csv
 files/*
+.envrc
